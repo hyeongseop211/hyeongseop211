@@ -72,9 +72,9 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=hyeongseop211&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://readme-streak-stats.demolab.com?user=hyeongseop211&theme=tokyonight" alt="GitHub Streak" />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center">
