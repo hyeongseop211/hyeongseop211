@@ -67,11 +67,25 @@
 
 ### 📈 GitHub 활동 통계
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeongseop211&show_icons=true&theme=tokyonight" alt="github stats" />
-  <br />
-<!--  <img src="https://readme-streak-stats.demolab.com?user=hyeongseop211&theme=tokyonight" alt="streak" /> -->
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hyeongseop211&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://readme-streak-stats.demolab.com?user=hyeongseop211&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongseop211&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyeongseop211&theme=tokyo-night&area=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
