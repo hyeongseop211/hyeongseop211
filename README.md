@@ -50,7 +50,7 @@ Git/GitHub, VS Code, Notion, Figma, Canva, Colab, AWS (EC2, RDS)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyeongseop211&show_icons=true&theme=tokyonight" alt="github stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeongseop211&theme=tokyonight" alt="streak" />
+ <img src="https://readme-streak-stats.demolab.com?user=hyeongseop211&theme=tokyonight" alt="streak" />
 </p>
 
 ---
